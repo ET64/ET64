@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ET64
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning javascript.
+- 📫 You can reach me on ewnet.tewodros@gmail.com or ewnet.tewodros@outlook.com
